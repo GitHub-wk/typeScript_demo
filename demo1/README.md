@@ -1,3 +1,3 @@
-#¶¯Ì¬angularÀ©Õ¹Â·ÓÉ
+# angularåŠ¨æ€æ‰©å±•è·¯ç”±
 tsc test.ts
 node test
