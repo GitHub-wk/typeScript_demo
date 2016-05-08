@@ -1,1 +1,1 @@
-# typeScript_demo
+# 学习typeScript的demo
