@@ -1,3 +1,3 @@
 # angular动态扩展路由
-tsc test.ts
-node test
+##1.tsc test.ts
+##2.node test
